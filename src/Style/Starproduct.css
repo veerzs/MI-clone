@@ -17,4 +17,6 @@
 }
 .starProduct img:hover{
   box-shadow: 6px 6px 15px rgba(53,53,53,0.363);
+  z-index: 100;
+  transform: translateY(-3px) scale(1);
 }
